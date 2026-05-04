@@ -62,9 +62,10 @@ This initiative facilitates online appointment requests for clients or patients 
 
 ## Screenshots
 
-| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png) | ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(2).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(4).png)|
-|--------------| --------------|   --------------|  --------------|    
-|  ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(5).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(7).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(8).png)|
+| | | | |
+|---|---|---|---|
+| <img src="https://github.com/user-attachments/assets/4b2f4a2a-e9f9-4c8b-ba82-5d1f35f99218" width="250"/> | <img src="https://github.com/user-attachments/assets/b79e79d0-a34d-4462-8467-b310394d4c89" width="250"/> | <img src="https://github.com/user-attachments/assets/19fbcdea-9ff8-48f3-a907-08afa93527b1" width="250"/> | <img src="https://github.com/user-attachments/assets/133be957-6c20-4543-a80c-95e34e641497" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/d486f143-eb33-4d06-b423-9355c491ca8c" width="250"/> | <img src="https://github.com/user-attachments/assets/47e5fbd5-3239-4935-a726-da8c6a59f55c" width="250"/> | <img src="https://github.com/user-attachments/assets/03c43e7a-d039-47bc-b780-4af4f1138d4d" width="250"/> | <img src="https://github.com/user-attachments/assets/01b74873-b9f3-4371-81f6-74630f1e16eb" width="250"/> |
 
 # The Project was developed using the following:
 
