@@ -42,7 +42,9 @@ This initiative facilitates online appointment requests for clients or patients 
 | -------| -------| -------|
 | Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
 | Password: `123` |  Password: `123` |  Password: `123` |
-| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png) |    ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)  |
+| <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b34c7589-6aaa-4beb-a117-cbf9ba0be659" /> |
+| <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3b8fc595-1760-4d83-89ce-24a4548545f2" />
+| <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/84b1daf0-0c5d-46ac-9c8c-9110d51f26b1" /> |
 
  
   
